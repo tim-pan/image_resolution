@@ -38,17 +38,17 @@ reproduce the submission
 ## reproduce
 - you only need to download `inference.ipynb` and just run it on colab.
 
-**note** 
+**note** </br>
 The model para you need to reproduce the submission are embedded in the `inference.ipynb`, but if you want to check my weight para is normal, please follow this [link](https://drive.google.com/file/d/1cdSDdbzfGp97Ijvol2CKBSsTF_w0PpBz/view?usp=sharing)
 ## reference
-[1] https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
-[2] Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.By C.Ledig et al. 
-[3] SwinIR: Image Restoration Using Swin Transformer.By J.Liang et al.
-[4] https://github.com/jingyunliang/swinir 
-[5] A comprehensive review of deep learning based single image super-resolution. By Syed Muhammad Arsalan Bashir et al.
-[6] Image Super-Resolution Using Deep Convolutional Networks. By Chao Dong et al.
-[7] Deep learning based single image super-resolution: a survey. International Journal of Automation and Computing, by Ha et al.
-[8] Enhanced Deep Residual Networks for Single Image Super-Resolution.By Bee Lim, et al.
+[1] https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution</br>
+[2] Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.By C.Ledig et al.</br> 
+[3] SwinIR: Image Restoration Using Swin Transformer.By J.Liang et al.</br>
+[4] https://github.com/jingyunliang/swinir </br>
+[5] A comprehensive review of deep learning based single image super-resolution. By Syed Muhammad Arsalan Bashir et al.</br>
+[6] Image Super-Resolution Using Deep Convolutional Networks. By Chao Dong et al.</br>
+[7] Deep learning based single image super-resolution: a survey. International Journal of Automation and Computing, by Ha et al.</br>
+[8] Enhanced Deep Residual Networks for Single Image Super-Resolution.By Bee Lim, et al.</br>
 
 
 

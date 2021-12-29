@@ -1,4 +1,4 @@
-# image_resolution
+# image super resolution
 ## task
 image super resolution with upscaling factor=3
 ## Environment

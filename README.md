@@ -17,25 +17,25 @@ testing dataset:14 LR images</br>
 ## introduction
 there are 
 - 10 files</br>
-**1. datasets.py</br>**
+**1. datasets.py**</br>
 define the custom dataset 
-**2. eval.py</br>**
+**2. eval.py**</br>
 evaluate the validation set
-**3. main.ipynb</br>**
+**3. main.ipynb**</br>
 run training procedure
-**4. model.py</br>**
+**4. model.py**</br>
 SRResnet architecture in this file
-**5. swinIR.py</br>**
+**5. swinIR.py**</br>
 implementation of swinLR, is fromthe official totorial of [4]
-**6. test.py</br>**
+**6. test.py**</br>
 use model to do the image super resolution
-**7. train.py</br>**
+**7. train.py**</br>
 implement training procedure,I also modified its code to fit our experiments
-**8. train_val_split.py</br>**
+**8. train_val_split.py**</br>
 split dataset to training dataset and validation dataset
-**9. utils.py</br>**
+**9. utils.py**</br>
 something we need but not included in any py files above
-**10. inference.ipynb</br>**
+**10. inference.ipynb**</br>
 reproduce the submission
 - 2 folders
 **1. data**</br>

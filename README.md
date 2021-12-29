@@ -18,30 +18,30 @@ testing dataset:14 LR images</br>
 there are 
 - 10 files</br>
 **1. datasets.py**</br>
-define the custom dataset 
+define the custom dataset </br>
 **2. eval.py**</br>
-evaluate the validation set
+evaluate the validation set</br>
 **3. main.ipynb**</br>
-run training procedure
+run training procedure</br>
 **4. model.py**</br>
-SRResnet architecture in this file
+SRResnet architecture in this file</br>
 **5. swinIR.py**</br>
-implementation of swinLR, is fromthe official totorial of [4]
+implementation of swinLR, is fromthe official totorial of [4]</br>
 **6. test.py**</br>
-use model to do the image super resolution
+use model to do the image super resolution</br>
 **7. train.py**</br>
-implement training procedure,I also modified its code to fit our experiments
+implement training procedure,I also modified its code to fit our experiments</br>
 **8. train_val_split.py**</br>
-split dataset to training dataset and validation dataset
+split dataset to training dataset and validation dataset</br>
 **9. utils.py**</br>
-something we need but not included in any py files above
+something we need but not included in any py files above</br>
 **10. inference.ipynb**</br>
-reproduce the submission
-- 2 folders
+reproduce the submission</br>
+- 2 folders</br>
 **1. data**</br>
-the place where your testing data and training data is
+the place where your testing data and training data is</br>
 **2. models**</br>
-This folder used to put the trained model weights 
+This folder used to put the trained model weights</br> 
 ## reproduce
 - you only need to download `inference.ipynb` and just run it on colab.
 

@@ -1,6 +1,8 @@
 # image super resolution
 ## task
-image super resolution with upscaling factor=3
+image super resolution with upscaling factor=3</br>
+training dataset:291 HR images</br>
+testing dataset:14 LR images</br>
 ## Environment
 - colab GPU(Tesla P100)
 ## packages

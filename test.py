@@ -8,9 +8,8 @@ if not os.path.isdir(output_dir):
     os.mkdir(output_dir)
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-# srresnet_checkpoint = './models/best_checkpoint_srresnet.pth.tar'
-# srresnet_checkpoint = './models/best_checkpoint_swin.pth.tar'
-srresnet_checkpoint = './models/best_checkpoint_swin_6.pth.tar'
+
+srresnet_checkpoint = './models/srresnet27959.pth.tar'
 
 
 srresnet = torch.load(srresnet_checkpoint)['model'].to(device)
